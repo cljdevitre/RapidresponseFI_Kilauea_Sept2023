@@ -1,0 +1,7 @@
+meta_path=c:\Users\charl\Desktop\RapidResponse\20thsept\MetaData
+spectra_path=c:\Users\charl\Desktop\RapidResponse\20thsept\Spectra
+filetype=headless_txt
+prefix=True
+prefix_str=' '
+file_ext=.txt
+TruPower=True
